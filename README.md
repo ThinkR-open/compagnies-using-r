@@ -124,7 +124,7 @@ Feel free to contribute.
 
 <HR>
 
-## Financial Time 
+## Financial Times 
 
 + [Is Russia-Saudi Arabia the worst World Cup game ever?](https://www.ft.com/content/e4a5012e-6e3e-11e8-92d3-6c13e5c92914)
 
@@ -222,6 +222,14 @@ Feel free to contribute.
 + [Moving from prototype to production in R](http://bryangalvin.com/useR-2018/)
 
 <HR>
+
+## NHS-R Community
+
++ [The NHS-R Community exists to support the all NHS organisations in R](https://nhsrcommunity.com/)
+
+<br>
+
+
 
 ## StackExchange/StackOverflow
 
